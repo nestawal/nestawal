@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and IT Technic
 - 🚀 I'm always eager to take on new challenges and expand my skill set.
 
 ## My Skills
-- **Programming Languages**: JavaScript, Python, Java, C++
+- **Programming Languages**: JavaScript, Python, Java, Kotlin
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MongoDB
 - **IT Skills**: Network setup, System maintenance, Technical support
