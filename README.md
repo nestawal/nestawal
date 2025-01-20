@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and IT Technic
 
 
 ## Get in Touch
-- 📧 Email: nesta.walgwe@gmail.com
+- 📧 Email: nestawalgwe@gmail.com
 - 💼 LinkedIn: [Nesta Walgwe](https://www.linkedin.com/in/nesta-walgwe-97a815254/)
 - 
 Feel free to explore my repositories and connect with me. Let's build something amazing together!
