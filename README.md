@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**nestawal/nestawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Nesta Walgwe! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate Software Developer and IT Technician who loves to code and learn new things. Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new programming languages and exploring the latest tech trends.
+- 💻 I enjoy working on software development projects and solving complex problems.
+- 🔧 As an IT Technician, I have hands-on experience with hardware and software troubleshooting.
+- 🚀 I'm always eager to take on new challenges and expand my skill set.
+
+## My Skills
+- **Programming Languages**: JavaScript, Python, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Database Management**: MySQL, MongoDB
+- **IT Skills**: Network setup, System maintenance, Technical support
+
+
+
+## Get in Touch
+- 📧 Email: nesta.walgwe@gmail.com
+- 💼 LinkedIn: [Nesta Walgwe](https://www.linkedin.com/in/nesta-walgwe-97a815254/)
+- 
+Feel free to explore my repositories and connect with me. Let's build something amazing together!
+
+
