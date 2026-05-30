@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I am a **Fullstack Developer with a heavy emphasis
 ## Technical Stack
 
 ### Backend Engineering
-* **Languages**: Kotlin, Java, Python, PHP, JavaScript
-* **Frameworks**: Spring Boot, Django, Laravel, Node.js (Express/NestJS)
+* **Languages**: Kotlin, Java, Python, JavaScript
+* **Frameworks**: Spring Boot, Django, Node.js (Express/NestJS)
 * **API Design**: RESTful APIs, GraphQL, gRPC
 
 ### Data & Persistence
